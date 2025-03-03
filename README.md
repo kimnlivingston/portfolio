@@ -4,7 +4,10 @@ Working to accrue more experience in modern web-development, so I challenged mys
 
 ## To Do
 
-- look into webpack
+- look into releases
+- looks into packages
+- make this work with custom url
+- add other portfolio items
 
 ## Resources
 
