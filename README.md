@@ -1,6 +1,6 @@
 # My Portfolio
 
-Working to accrue more experience in modern web-development, so I challenged myself to create a portfolio via GitHub utilizing Next.js, React.js, and Tailwind CSS. This is step one. Step two is to host my Minecraft Achievements Tracker with Docker to host both the application and the database needed. Stay tuned.
+Working to accrue more experience in modern web-development, so I challenged myself to create a portfolio via GitHub utilizing Next.js, React.js, and Tailwind CSS. This is step one. Step two is to upload my Minecraft Achievements Tracker with Docker to host both the application and the database needed. Stay tuned.
 
 ## To Do
 
